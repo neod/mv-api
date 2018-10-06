@@ -1,0 +1,9 @@
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\bin\Debug\netcoreapp2.1\mv-api.deps.json
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\bin\Debug\netcoreapp2.1\mv-api.dll
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\obj\Debug\netcoreapp2.1\mv-api.csprojAssemblyReference.cache
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\obj\Debug\netcoreapp2.1\mv-api.csproj.CoreCompileInputs.cache
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\obj\Debug\netcoreapp2.1\mv-api.AssemblyInfoInputs.cache
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\obj\Debug\netcoreapp2.1\mv-api.AssemblyInfo.cs
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\bin\Debug\netcoreapp2.1\mv-api.pdb
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\obj\Debug\netcoreapp2.1\mv-api.dll
+d:\Users\neod\Documents\GitHub\mv-api\mv-api\obj\Debug\netcoreapp2.1\mv-api.pdb

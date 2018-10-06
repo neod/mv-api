@@ -1,0 +1,14 @@
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api-Tester.deps.json
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api-Tester.runtimeconfig.json
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api-Tester.runtimeconfig.dev.json
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api-Tester.dll
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api-Tester.pdb
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api.dll
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\bin\Debug\netcoreapp2.1\mv-api.pdb
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.csprojAssemblyReference.cache
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.csproj.CoreCompileInputs.cache
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.AssemblyInfoInputs.cache
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.AssemblyInfo.cs
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.csproj.CopyComplete
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.dll
+d:\Users\neod\Documents\GitHub\mv-api\mv-api-Tester\obj\Debug\netcoreapp2.1\mv-api-Tester.pdb
